@@ -1,0 +1,33 @@
+_repo: The-Giant-Sorcerer-b-Or-the-extraordinary-adventures-of-Raphael-and-Cassandra_74373
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyd, Frank
+    gutenberg_agent_id: '57472'
+    url: http://www.gutenberg.org/2009/agents/57472
+creator:
+  author:
+    agent_name: Whitman, William
+    gutenberg_agent_id: '57471'
+    url: http://www.gutenberg.org/2009/agents/57471
+description: ''
+gutenberg_issued: '2024-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74373'
+language: en
+pgterms:marc904: https://archive.org/details/giantsorcererore00whit/mode/2up
+pgterms:marc905: 20240730104230whitman
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Andrew Butchers, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Giant Sorcerer : $b Or the extraordinary adventures of Raphael and Cassandra'
+url: http://www.gutenberg.org/ebooks/74373
