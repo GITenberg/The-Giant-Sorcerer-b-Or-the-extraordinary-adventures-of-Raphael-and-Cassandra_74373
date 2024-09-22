@@ -5,12 +5,17 @@ contributor:
     agent_name: Boyd, Frank
     gutenberg_agent_id: '57472'
     url: http://www.gutenberg.org/2009/agents/57472
+covers:
+- cover_type: archival
+  image_path: 74373-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Whitman, William
     gutenberg_agent_id: '57471'
     url: http://www.gutenberg.org/2009/agents/57471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74373#The-Giant-Sorcerer-b-Or-the-extraordinary-adventures-of-Raphael-and-Cassandra
 gutenberg_issued: '2024-09-05'
 gutenberg_type: Text
 identifiers:
